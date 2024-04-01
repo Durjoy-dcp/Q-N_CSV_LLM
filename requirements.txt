@@ -2,3 +2,5 @@ langchain
 langchain-google-genai
 python-dotenv
 langchain_community
+langchain-astradb
+langchain-google-vertexai
