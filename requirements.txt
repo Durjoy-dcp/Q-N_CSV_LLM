@@ -1,6 +1,5 @@
-langchain
-langchain-google-genai
-python-dotenv
-langchain_community
-langchain-astradb
-langchain-google-vertexai
+langchain==0.1.13
+langchain-google-genai==1.0.1
+python-dotenv==1.0.1
+langchain-community==0.0.29
+faiss-cpu==1.8.0
